@@ -1,0 +1,32 @@
+[
+  {
+    "name": "session_create",
+    "method": "POST",
+    "path": "/session/create",
+    "description": "V1 Session Create"
+  },
+  {
+    "name": "interact",
+    "method": "POST",
+    "path": "/interact",
+    "description": "V1 Interact"
+  },
+  {
+    "name": "session_list",
+    "method": "POST",
+    "path": "/session/list",
+    "description": "V1 Session List"
+  },
+  {
+    "name": "session_delete",
+    "method": "POST",
+    "path": "/session/delete",
+    "description": "V1 Session Delete"
+  },
+  {
+    "name": "browse",
+    "method": "POST",
+    "path": "/browse",
+    "description": "V1 Browse"
+  }
+]
